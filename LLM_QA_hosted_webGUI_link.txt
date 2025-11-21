@@ -1,8 +1,8 @@
-﻿﻿Name:Adetimehin 
+Name:Adetimehin 
 Matric Number: 23CG034024
 
-Live URL: https://olojede-23cg034127-emotion-detection-web-yk26.onrender.com
-GitHub Repository: https://github.com/Ololaloluwa/Ai_interface
+Live URL: https://ai-interface-y01p.onrender.com
+GitHub Repository: https://github.com/Timileyin6/Ai_interface
 
 Instructions:
 1. Deploy the application to Render.com
